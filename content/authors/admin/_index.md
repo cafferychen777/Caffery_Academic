@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Caffery(Chen) Yang
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Caffery
+last_name: Yang
 
 # Status emoji
 status:
@@ -14,34 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Junior Majored in Biostatistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Southern Medical University
+    url: https://www.smu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on developing methods for microbial community data analysis, including differential abundance analysis and downstream analysis tools, deconvolution methods for spatial transcriptomics, and Bayesian statistical approaches. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Genetic Statistics 
+  - Microbiome 
+  - Spatial Transcriptomics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: BSc in Biostatistics
+    institution: Southern Medical University
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,28 +44,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:cafferychen7850@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/CafferyYang
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cafferychen777
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/caffery-chen-0a5890225/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_230221.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +68,13 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a junior majoring in Biostatistics at Southern Medical University. I am proud to have received the National Scholarship from the Ministry of Education of China in 2020-2021, an honor awarded to only 0.2% of China's top students each year.
+
+I excel in mathematical modeling and have won numerous awards in national competitions. During my freshman year, I worked as a research assistant on a project that focused on grass-roots health quality assessment through standardized patients. Our findings have been put into practice and have made a positive impact on the field.
+
+In the summer of 2022, I had the opportunity to work as a research assistant at the Case Western Reserve University Center for Quantitative Medicine, under the supervision of Professor Liangliang Zhang. During my time there, I contributed to the development of an R package for processing microbiome data and gained experience in using Bayesian statistics for microbiome analysis.
+
+I am currently seeking a summer internship for 2023 and a PhD position for fall 2023 in the field of Biostatistics or a related field. If you have any opportunities available, please do not hesitate to reach out to me.
+
+To learn more about me, please visit my [research group website](https://cwru-cinema.netlify.app/author/chencaffery-yang/).
 {style="text-align: justify;"}
